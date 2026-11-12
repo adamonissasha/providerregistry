@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: providerregistry
+  main:
+    web-application-type: none

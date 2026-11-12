@@ -1,0 +1,7 @@
+[
+  {
+    "id": "alpha",
+    "baseUrl": "https://api.alpha-provider.com",
+    "apiKey": "secret-alpha-key"
+  }
+]
